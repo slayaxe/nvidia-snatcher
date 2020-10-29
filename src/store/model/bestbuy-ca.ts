@@ -19,6 +19,12 @@ export const BestBuyCa: Store = {
 			url: 'https://www.bestbuy.ca/en-ca/product/msi-nvidia-geforce-rtx-2060-super-gaming-x-8gb-gddr6-video-card/14419420?intl=nosplash'
 		},
 		{
+			brand: 'msi',
+			model: 'ventus 3x',
+			series: '3070',
+			url: 'https://www.bestbuy.ca/en-ca/product/msi-nvidia-geforce-rtx-3070-ventus-3x-oc-8gb-gddr6x-video-card/15038016'
+		},
+		{
 			brand: 'zotac',
 			model: 'trinity',
 			series: '3080',
